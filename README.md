@@ -15,5 +15,5 @@
 
 ### Projects
 - <img src="./assets/yabam.svg" width="25" alt="YABAM preview" />  **야밤**: 축제 현장의 아날로그 주문을 QR 기반으로 디지털화한 실시간 스마트 오더 서비스 [GitHub](https://github.com/Kumoh-talk/YABAM-User)
-- <img src="./assets/letsgu.svg" width="25" alt="Let's Gu preview" /> **레츠꾸**: AI 미션 인증을 통해 구미시의 숨은 명소를 발견하는 로컬 탐험 서비스 [GitHub](https://github.com/Lets-Gu)
-- <img src="./assets/csquiz.svg" width="25" alt="CS Quiz preview" /> **CS 퀴즈** : CS 지식을 퀴즈 형식으로 재미있게 풀어나가는 게임형 학습 서비스 [GitHub](https://github.com/CSQuiz)
+- <img src="./assets/letsgu.svg" width="25" alt="Let's Gu preview" /> **레츠꾸**: AI 미션 인증을 통해 구미시의 숨은 명소를 발견하는 로컬 탐험 서비스 [GitHub](https://github.com/Lets-Gu/FrontEnd)
+- <img src="./assets/csquiz.svg" width="25" alt="CS Quiz preview" /> **CS 퀴즈** : CS 지식을 퀴즈 형식으로 재미있게 풀어나가는 게임형 학습 서비스 [GitHub](https://github.com/CSQuiz/CS-Quiz-Frontend)
